@@ -2,3 +2,6 @@
 authentication moment
 
 hwid
+
+
+hwid encrypted mometn
